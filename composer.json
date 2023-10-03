@@ -15,7 +15,7 @@
   },
   "require": {
     "php": "^7.4|^8.0",
-    "google/auth-hycom": "dev-main",
+    "google/auth-hycom": "*",
     "google/apiclient-services": "~0.200",
     "firebase/php-jwt": "~6.0",
     "monolog/monolog": "^2.8||^3.0",
