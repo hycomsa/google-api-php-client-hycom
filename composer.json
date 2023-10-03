@@ -7,12 +7,12 @@
   ],
   "homepage": "http://developers.google.com/api-client-library/php",
   "license": "Apache-2.0",
-  "repositories": [
-    {
+  "repositories": {
+    "google/auth-hycom": {
       "type": "vcs",
       "url": "https://github.com/hycomsa/google-auth-library-php-hycom.git"
     }
-  ],
+  },
   "require": {
     "php": "^7.4|^8.0",
     "google/auth-hycom": "dev-main",
